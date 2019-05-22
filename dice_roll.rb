@@ -1,3 +1,3 @@
-def roll(dice)
-  puts rand(1..6)
+def roll
+ 1 + rand(6)
 end
