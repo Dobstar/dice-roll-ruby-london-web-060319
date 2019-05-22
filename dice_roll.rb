@@ -1,4 +1,4 @@
 def roll
- 1 + rand(6)
- binding.pry
+dice_roll = [1,2,3,4,5,6]
+dice_roll
 end
